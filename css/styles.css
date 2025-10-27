@@ -219,7 +219,7 @@ button:hover, button:focus, .button:hover, .button:focus, .button__secondary:hov
   width: 150px;
   height: auto;
   margin-right: 20px;
-  box-sizing: 6px;
+  /* box-sizing: 6px; */
 }
 
 .profile {
