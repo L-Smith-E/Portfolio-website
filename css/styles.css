@@ -53,8 +53,17 @@
 body{
     background-color: var(--background-color);
     
-    font-family: "BBH Sans Hegarty", sans-serif;
-    font-weight: 400;
+    font-family: "Oswald", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+p{
+  
+  font-family: "Oswald", sans-serif;
+    font-weight: 200;
     font-style: normal;
     font-size: 16px;
     line-height: 1.6;
@@ -89,6 +98,7 @@ body{
    min-height: auto;
    margin: 0;
    box-sizing: border-box;
+   background-color: darkgray;
  }
  .grid__item:last-child {
    grid-column: 2 / 3;
